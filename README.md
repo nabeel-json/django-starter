@@ -1,4 +1,4 @@
-### how to use this starter template for django
+# how to use this starter template for django
 
 ## make a .venv using
 ```
